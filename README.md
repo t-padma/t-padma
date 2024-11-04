@@ -1,4 +1,10 @@
-## Hi there 👋
+
+    👋 Hi, I’m Padma
+    👀 I’m interested in the topological data analysis and its applications to neuroscience and neuroimaging data.
+    🌱 I’m currently exploring the applications of Mapper algorithm to fMRI data analysis.
+    📫 For contact details, please visit my website.
+
+
 
 <!--
 **t-padma/t-padma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
