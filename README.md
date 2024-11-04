@@ -1,8 +1,8 @@
 
-    👋 Hi, I’m Padma
+    👋 Hi, I’m Padma, a 4th year Statistics PhD student.
     👀 I’m interested in the topological data analysis and its applications to neuroscience and neuroimaging data.
     🌱 I’m currently exploring the applications of Mapper algorithm to fMRI data analysis.
-    📫 For contact details, please visit my website.
+    🔭 I write blog posts evolving understanding of TDA, statistics, and neuroimaging data analysis on [my website](https://t-padma.github.io/).
 
 
 
